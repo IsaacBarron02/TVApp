@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="browse_title">SpotiTunes</string>
+    <string name="related_movies">Videos relacionados</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Prueba</string>
+    <string name="watch_trailer_2">Gratis</string>
+    <string name="rent_1">Precio por cancion</string>
+    <string name="rent_2">$20</string>
+    <string name="buy_1">Comprar album</string>
+    <string name="buy_2">$100</string>
+    <string name="movie">Cancion</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
